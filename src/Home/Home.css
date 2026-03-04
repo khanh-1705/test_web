@@ -1,0 +1,22 @@
+#homePage{
+    position: absolute;
+    width: 1200px;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+#home{
+    position: absolute;
+    width: 800px;
+    height: 600px;
+    background-color: gray;
+}
+
+
+#homeHeader{
+    font-size: large;
+    font-weight: 600;
+    position: relative;
+    align-content: center;
+    color: black;
+}
